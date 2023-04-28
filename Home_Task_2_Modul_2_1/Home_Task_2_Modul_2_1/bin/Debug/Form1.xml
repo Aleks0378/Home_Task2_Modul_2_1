@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <string>Stepanichenko</string>
+  <string>Oleksandr</string>
+  <string>Pavlovich</string>
+  <string>male</string>
+  <string>пятница, 7 апреля 2023 г.</string>
+  <string>marriage</string>
+  <string>Good Man</string>
+</ArrayOfString>
